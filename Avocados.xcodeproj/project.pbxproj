@@ -11,6 +11,7 @@
 		F27DE9A0255AEBC500E7BA02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27DE99F255AEBC500E7BA02 /* ContentView.swift */; };
 		F27DE9A2255AEBC700E7BA02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F27DE9A1255AEBC700E7BA02 /* Assets.xcassets */; };
 		F27DE9A5255AEBC700E7BA02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F27DE9A4255AEBC700E7BA02 /* Preview Assets.xcassets */; };
+		F27DE9AF255AF86C00E7BA02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F27DE9AE255AF86C00E7BA02 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F27DE9A1255AEBC700E7BA02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F27DE9A4255AEBC700E7BA02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F27DE9A6255AEBC700E7BA02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F27DE9AE255AF86C00E7BA02 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				F27DE99F255AEBC500E7BA02 /* ContentView.swift */,
 				F27DE9A1255AEBC700E7BA02 /* Assets.xcassets */,
 				F27DE9A6255AEBC700E7BA02 /* Info.plist */,
+				F27DE9AE255AF86C00E7BA02 /* LaunchScreen.storyboard */,
 				F27DE9A3255AEBC700E7BA02 /* Preview Content */,
 			);
 			path = Avocados;
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F27DE9AF255AF86C00E7BA02 /* LaunchScreen.storyboard in Resources */,
 				F27DE9A5255AEBC700E7BA02 /* Preview Assets.xcassets in Resources */,
 				F27DE9A2255AEBC700E7BA02 /* Assets.xcassets in Resources */,
 			);
