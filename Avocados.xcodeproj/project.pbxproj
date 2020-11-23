@@ -10,6 +10,7 @@
 		F24F995D256B0F340000182D /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24F995C256B0F340000182D /* HeaderView.swift */; };
 		F24F9960256B20DC0000182D /* HeaderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24F995F256B20DC0000182D /* HeaderModel.swift */; };
 		F24F9963256B21100000182D /* HeaderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24F9962256B21100000182D /* HeaderData.swift */; };
+		F24F9966256B27500000182D /* DishesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24F9965256B27500000182D /* DishesView.swift */; };
 		F27DE99E255AEBC500E7BA02 /* AvocadosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27DE99D255AEBC500E7BA02 /* AvocadosApp.swift */; };
 		F27DE9A0255AEBC500E7BA02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27DE99F255AEBC500E7BA02 /* ContentView.swift */; };
 		F27DE9A2255AEBC700E7BA02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F27DE9A1255AEBC700E7BA02 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		F24F995C256B0F340000182D /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		F24F995F256B20DC0000182D /* HeaderModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderModel.swift; sourceTree = "<group>"; };
 		F24F9962256B21100000182D /* HeaderData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderData.swift; sourceTree = "<group>"; };
+		F24F9965256B27500000182D /* DishesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishesView.swift; sourceTree = "<group>"; };
 		F27DE99A255AEBC500E7BA02 /* Avocados.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Avocados.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F27DE99D255AEBC500E7BA02 /* AvocadosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvocadosApp.swift; sourceTree = "<group>"; };
 		F27DE99F255AEBC500E7BA02 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				F27DE9CA255B010400E7BA02 /* SettingsView.swift */,
 				F27DE99D255AEBC500E7BA02 /* AvocadosApp.swift */,
 				F24F995C256B0F340000182D /* HeaderView.swift */,
+				F24F9965256B27500000182D /* DishesView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 				F27DE9C4255B00E100E7BA02 /* AvocadosView.swift in Sources */,
 				F24F9960256B20DC0000182D /* HeaderModel.swift in Sources */,
 				F24F9963256B21100000182D /* HeaderData.swift in Sources */,
+				F24F9966256B27500000182D /* DishesView.swift in Sources */,
 				F24F995D256B0F340000182D /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
